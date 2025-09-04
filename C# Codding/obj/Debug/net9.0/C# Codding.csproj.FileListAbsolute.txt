@@ -1,0 +1,14 @@
+D:\Cursos\C# Codding\bin\Debug\net9.0\C# Codding.exe
+D:\Cursos\C# Codding\bin\Debug\net9.0\C# Codding.deps.json
+D:\Cursos\C# Codding\bin\Debug\net9.0\C# Codding.runtimeconfig.json
+D:\Cursos\C# Codding\bin\Debug\net9.0\C# Codding.dll
+D:\Cursos\C# Codding\bin\Debug\net9.0\C# Codding.pdb
+D:\Cursos\C# Codding\obj\Debug\net9.0\C# Codding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# Codding\obj\Debug\net9.0\C# Codding.AssemblyInfoInputs.cache
+D:\Cursos\C# Codding\obj\Debug\net9.0\C# Codding.AssemblyInfo.cs
+D:\Cursos\C# Codding\obj\Debug\net9.0\C# Codding.csproj.CoreCompileInputs.cache
+D:\Cursos\C# Codding\obj\Debug\net9.0\C# Codding.dll
+D:\Cursos\C# Codding\obj\Debug\net9.0\refint\C# Codding.dll
+D:\Cursos\C# Codding\obj\Debug\net9.0\C# Codding.pdb
+D:\Cursos\C# Codding\obj\Debug\net9.0\C# Codding.genruntimeconfig.cache
+D:\Cursos\C# Codding\obj\Debug\net9.0\ref\C# Codding.dll

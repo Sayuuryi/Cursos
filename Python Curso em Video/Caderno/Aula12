@@ -1,0 +1,2 @@
+'''Condição aninhada: tem como colocar mais de um condição na condição aninhada ou seja if e else e para isso a gente pode usar a condição elif
+porém é obrigatorio ter um if, só não é obrigatório ter else'''

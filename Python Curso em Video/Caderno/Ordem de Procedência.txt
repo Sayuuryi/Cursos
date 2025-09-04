@@ -1,0 +1,30 @@
+Ordem de Procedência ou seja o que resolve primeiro
+
+1 ()
+2 **
+3 *(multiplicação) /(divisão) //(divisao inteira) %(resto da divisao)
+4 +(soma) -(subtração)
+
+5 + 5 x 8
+
+operador para perguntar se tem ou não uma palavra ou letra em uma frase - 
+
+============================================================================
+
+junta a strig toda - 'vc coloca aqui dentro o que vc quer nos espaços'.join(variavel)
+divide a string toda - variavel.split()
+remove todos os espaços excedentes da esquerda da string - variavel.lstrip
+remove todos os espaços excedentes a direita da string - variavel.rstrip
+remove todos os espaços excedentes no inicio e no final - variavel.strip
+analisa quantas palavras tem essa string e vai fazer a mesma coisa que o capatalize porem por palavra ou seja dedixando somente a primeira letra de cada 
+palavra em maiusculo- variavel.title()
+---
+deixa tudo em minusculo e so a primeira letra em maiusculo tipo um paragrafo - variavel.capitalize()
+colocar palavras em maiusculo - variavel.upper()
+colocar palavras em minusculo - variavel.lower()
+trocar palavras dentro de uma frase - variavel.replace('Palavra que você quer trocar', 'Palavra Nova')
+encontrar palavra na frase - variavel.find('parte da frase')
+contar quantas vezes tem a letra especificada - variavel.count('letra')
+ler caracteres - len
+importar bibliotecas - import
+importar uma função especifica de uma biblioteca - #from biblioteca import tal
