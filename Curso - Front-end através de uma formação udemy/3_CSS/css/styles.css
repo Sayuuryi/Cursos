@@ -6,3 +6,8 @@ body {
 h3 {
     color:chocolate
 }
+
+p {
+    color: rgba(255, 0, 0, 0.411);
+}
+
