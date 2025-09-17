@@ -1,4 +1,5 @@
 /* 4 - External */
+/* Para o External só basta você linkar o arquivo do css no html e usar o nome da tag com o {} */
 body {
     padding-bottom: 500px;
 }
@@ -11,3 +12,46 @@ p {
     color: rgba(255, 0, 0, 0.411);
 }
 
+/* classes */
+/* Adcionando estilo por meio de classes, você usa o .nome da classe e depois um {} */
+.paragraph {
+    background-color: black;
+    color: aqua;
+    padding: 5px;
+}
+
+/* IDs - Para os IDs você precisa usar o #ID */
+#excluse-title {
+    background-color: chartreuse;
+    color:darkmagenta;
+    padding: 10px;
+}
+
+/* ordem das regras */
+h2 {
+    border-bottom: 2px solid darkorange;
+
+}
+
+#titulo {
+    border-bottom: 3px solid darkcyan ;
+}
+
+.classe-titulo {
+    border-bottom: 4px solid fuchsia;
+}
+
+/* Nome de Cores */
+.colorname {
+    color:rgba(106, 26, 180, 0.815)
+}
+
+.hex {
+    color:#55a398
+}
+
+
+/* Colorindo em HEX ( Hexadecimal ) */
+.hex2 {
+    color: #434643;
+}
