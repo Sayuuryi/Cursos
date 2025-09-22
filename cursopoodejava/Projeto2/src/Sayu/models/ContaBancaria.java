@@ -1,4 +1,4 @@
-package src.models;
+package sayu.models;
 
 import java.util.InputMismatchException;
 

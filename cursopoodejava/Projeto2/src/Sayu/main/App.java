@@ -1,6 +1,6 @@
-package main;
+package sayu.main;
 
-import models.ContaBancaria;
+import sayu.models.ContaBancaria;
 
 public class App {
     
