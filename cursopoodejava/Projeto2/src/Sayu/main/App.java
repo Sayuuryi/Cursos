@@ -1,6 +1,6 @@
-package src;
+package main;
 
-import src.models.ContaBancaria;
+import models.ContaBancaria;
 
 public class App {
     
