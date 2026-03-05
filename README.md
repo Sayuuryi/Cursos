@@ -5,8 +5,7 @@ O objetivo deste repositório é organizar meu progresso de aprendizado.
 
 🚀 Tecnologias estudadas
 
-Java
-Python
+Java e Python
 
 📜 Certificados
 
