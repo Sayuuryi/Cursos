@@ -1,6 +1,0 @@
-Ordem de Precedência:
-
-1. (): Parênteses têm a maior precedência e são avaliados primeiro;
-2. !: Operador NOT lógico tem a segunda maior precedência;
-3. &&: Operador AND lógico é avaliado antes de ||;
-4. ||: Operador OR lógico é avaliado por último;
